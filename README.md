@@ -42,11 +42,79 @@ Graphic design in Adobe Photoshop for T-Shirt prints purpose. The following mock
 
 ## Kolor Desktop Installer
 
+Hi-fi mockups designed for desktop installer.
+
+![1 introduction](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170690480-75bbb80c-85b2-4976-945a-a74bbf163d83.png&output=webp&q=30&w=1012&dpr=2)
+![2 licence](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170690483-df0fcd0d-1d1f-4825-a253-434ab4ea868c.png&output=webp&q=30&w=1012&dpr=2)
+
 
 ## Booklets for BD-DVD movie
+
+#### American Loneliness
+[Website](https://mathieulelay.com/fr/film/american-loneliness)
+
+![Gabarit_Jaquette-DVD](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691065-45241255-e193-46a0-a222-fa72c32f323d.jpg&output=webp&q=30&w=1012&dpr=2)
+
+#### La Quête d'Inspiration
+[Website](https://mathieulelay.com/fr/film/la-quete-dinspiration)
+
+![jaquette-dvd-alexandre-deschaumes](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691014-8ae58454-87e5-4ee7-a17e-f73d346f41dc.png&output=webp&q=30&w=1012&dpr=2)
+
+#### Des Gypaètes et des Hommes
+[Website](https://mathieulelay.com/fr/film/des-gypaetes-et-des-hommes)
+
+![jaquette-gypaetes](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691060-3bc108e4-323a-4a19-85dd-cf6555dd8307.jpg&output=webp&q=30&w=1012&dpr=2)
+
+#### Alternatives
+
+<a href="https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691000-987c9959-f5b0-4e4a-988e-09fdb828a4b3.png&output=webp&q=30&w=500&dpr=2"><img alt="Alexandre_Deschaumes_Quete_Inspiration2" src="https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691000-987c9959-f5b0-4e4a-988e-09fdb828a4b3.png&output=webp&q=30&w=500&dpr=2" width="500"></a> <a href="https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691019-53f9e60b-5dcd-4680-8b17-7dce116decc9.png&output=webp&q=30&w=500&dpr=2"><img alt="Alexandre_Deschaumes_Quete_Inspiration" src="https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691019-53f9e60b-5dcd-4680-8b17-7dce116decc9.png&output=webp&q=30&w=500&dpr=2" width="500"></a>
+
+#### Disc template design
+![Gabarit_CD-R_DVD-R_BD-R-BD-alexandre-deschaumes](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691010-4995c75a-4e46-4e56-8671-09bde7bd6dc8.png&output=webp&q=30)
+
 
 
 ## Miscellaneous
 
-![2011-11-masques-decaux-120x176](https://user-images.githubusercontent.com/13103047/170675962-783f2c52-e745-43de-bc6f-9f080155b17e.jpg)
+#### Logo for an Hotel
+![logo_le_grand_truc_final](https://user-images.githubusercontent.com/13103047/170692871-49a6decf-228c-45e4-8dab-2848c3f42ab5.jpg)
+
+#### Flyer
+![flyer-runartic-recto](https://user-images.githubusercontent.com/13103047/170692886-7aa7b3ee-0a05-4d0f-b8d8-d01ccc60d7bc.jpg)
+
+#### Business cards
+![carte-de-visite-moniteur-rev2](https://user-images.githubusercontent.com/13103047/170692967-546cec65-f23f-4bbe-8717-e422cc2cd1c5.jpg)
+![carte-de-visite-taxi-rev1](https://user-images.githubusercontent.com/13103047/170692981-20f37178-2541-4c6d-9971-4201080d65e8.jpg)
+
+#### Street ads
+
+| Ski Goggles ad | Ski Goggles ad |
+| --- | --- |
+| ![60x80-masques](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170694296-e6797c68-8da6-4dcb-82f8-847fdd2edb9b.jpg&output=webp&q=30&w=478&dpr=2) | ![2011-11-masques-decaux-120x176](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170694301-87a87dea-9a98-4195-bad0-7f0f92ac464d.jpg&output=webp&q=30&w=478&dpr=2) |
+
+| Email design for Demetz | Print design for magazine |
+| --- | --- |
+| ![2008-10-demetz](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170694284-c077f2ac-78b8-440c-af7d-93c0bd11e43f.jpg&output=webp&q=30&w=478&dpr=2) | ![cannes-luxury-hotel-2011](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170694299-918081d4-187c-4ee4-84c5-ea4aa8392cdb.jpg&output=webp&q=30&w=478&dpr=2) |
+
+| Sucettes Decaux for opticians | Sucettes Decaux for opticians |
+| --- | --- |
+| ![decaux-120x176-2011-08-08-v2](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170694309-e6936793-d6ac-4069-978a-2ea5222ebebb.jpg&output=webp&q=30&w=478&dpr=2) | ![decaux-120x176-2011-05](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170694308-a52d8efd-8e61-46f2-9ff2-d1a23f579683.jpg&output=webp&q=30&w=478&dpr=2) |
+
+| Sucettes Decaux for opticians | Sucettes Decaux for opticians |
+| --- | --- |
+| ![2013-02-decaux-120x176-50ans](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170694304-2455d169-6bb3-4bba-8bb1-a7d92a6b2e95.jpg&output=webp&q=30&w=478&dpr=2) | ![decaux-120x176-2011-03-70euros](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170694306-39817ed8-4ed2-4bdb-a0c4-06ea7aa483dd.jpg&output=webp&q=30&w=478&dpr=2) |
+
+| Sucettes Decaux for opticians | 60 x 80 cm for opticians |
+| --- | --- |
+| ![60x80-2011-01-destockage](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170694291-da2e8a1c-8cb6-45c3-96b9-fefc9ea6e072.jpg&output=webp&q=30&w=478&dpr=2) | ![60x80-institutionnel](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170694294-2e971676-687e-4667-a19b-179e14097b01.jpg&output=webp&q=30&w=478&dpr=2) |
+
+
+
+
+
+
+
+
+
+
 
