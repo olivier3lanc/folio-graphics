@@ -76,6 +76,15 @@ Hi-fi mockups designed for desktop installer.
 
 ## Miscellaneous
 
+#### Before and after
+
+![avant-apres-6](https://user-images.githubusercontent.com/13103047/171635410-100771f9-5ff0-462c-9047-9074976a39af.jpg)
+![avant-apres-5](https://user-images.githubusercontent.com/13103047/171635413-fb314dfe-37de-4db3-a982-3df6d50444b9.jpg)
+![avant-apres-4](https://user-images.githubusercontent.com/13103047/171635419-f6158c1d-7943-408c-83d7-6dcbd9b9e65c.jpg)
+![avant-apres-3](https://user-images.githubusercontent.com/13103047/171635421-22fbed29-e43d-4a1d-9e19-c15b6aecd4b7.jpg)
+![avant-apres-2](https://user-images.githubusercontent.com/13103047/171635426-b9b61e6c-fcac-4e2f-ba79-fc3ecd40b07f.jpg)
+![avant-apres-1](https://user-images.githubusercontent.com/13103047/171635431-882a1676-d157-4d7b-915f-9769c1f040cc.jpg)
+
 #### Logo for an Hotel
 ![logo_le_grand_truc_final](https://user-images.githubusercontent.com/13103047/170692871-49a6decf-228c-45e4-8dab-2848c3f42ab5.jpg)
 
